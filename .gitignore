@@ -1,0 +1,9 @@
+node_modules/
+.meteor/
+client/
+lib/
+public/
+server/
+tests/
+package-lock.json
+package.json
