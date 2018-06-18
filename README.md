@@ -10,3 +10,6 @@
 2) Add doc API (https://bpg-cashbox.com/doc/api/)
 3) Open Registration
 4) Add new item
+
+## api
+1) Add sent check
