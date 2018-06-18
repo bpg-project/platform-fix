@@ -10,6 +10,7 @@
 2) Add doc API (https://bpg-cashbox.com/doc/api/)
 3) Open Registration
 4) Add new item
+5) Add markets list and add market page
 
 ## api
 1) Add sent check
