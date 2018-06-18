@@ -8,3 +8,5 @@
 18/06/2018
 1) Start demo page (https://bpg-cashbox.com)
 2) Add doc API (https://bpg-cashbox.com/doc/api/)
+3) Open Registration
+4) Add new item
