@@ -7,3 +7,4 @@ server/
 tests/
 package-lock.json
 package.json
+settings.json

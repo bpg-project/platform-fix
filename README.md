@@ -11,6 +11,7 @@
 3) Open Registration
 4) Add new item
 5) Add markets list and add market page
+6) Listing page (fix errors)
 
 ## api
 1) Add sent check
